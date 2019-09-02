@@ -19,8 +19,8 @@
 
     \InstagramAPI\Instagram::$allowDangerousWebUsageAtMyOwnRisk = true;
 
-    $username = 'melihhsazil';
-    $password = 'ahmet0102';
+    $username = '';
+    $password = '';
 
     $ig = new \InstagramAPI\Instagram();
 
